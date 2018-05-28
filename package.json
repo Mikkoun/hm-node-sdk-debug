@@ -1,0 +1,14 @@
+{
+  "name": "hm-node-sdk-debug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hmkit": "../hm-node-sdk/"
+  }
+}
